@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">Forever locked in with Python, I'm currently building interactive client-side web apps with Django and HTMX, (Yes!)</h3>
+<h1 align="">Hi 👋, I'm Mark</h1>
+<h3 align="">Forever locked in with Python, I'm currently building interactive client-side web apps with Django and HTMX, (Yes!)</h3>
 
 
 
